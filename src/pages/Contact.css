@@ -1,0 +1,24 @@
+.contact-page {
+  min-height: 100vh;
+  padding: 60px 20px;
+  background: url('https://images.unsplash.com/photo-1566073771259-6a8506099945') no-repeat center center/cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact-header {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.contact-header h2 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.contact-header p {
+  font-size: 1.1rem;
+  color: #f1f1f1;
+}
